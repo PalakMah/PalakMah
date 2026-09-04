@@ -81,5 +81,4 @@
 
 - 🥇 2 wins, 5 finalist positions across 9+ national hackathons
 - 🎯 Semi-Finalist, Flipkart GRiD 8.0 — advanced to Round 3
-- 🎓 Delhi Higher & Technical Education Support Scheme, Govt. of NCT of Delhi
 - 📄 Co-authored paper on baby emotion recognition — under review at IEEE TETCI
