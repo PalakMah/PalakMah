@@ -1,24 +1,32 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=250&section=header&text=Palak%20Mahajan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Researcher%20•%20Full-Stack%20Developer%20•%20Backend%20Engineer&descSize=20&descAlignY=56)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=280&section=header&text=Palak%20Mahajan&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Researcher%20✦%20Full-Stack%20Developer%20✦%20Backend%20Engineer&descSize=19&descAlignY=52&descColor=f5f0ff"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=Information+Technology+Student+%40+IGDTUW;AI%2FML+Researcher+%7C+Full-Stack+Developer;Deep+Learning+%7C+Computer+Vision+%7C+Audio+Processing;Self-Supervised+Learning+%7C+Explainable+AI;LLM-Based+Applications;Always+Learning+Something+New)](https://git.io/typing-svg)
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=8A63F2&center=true&vCenter=true&random=false&width=800&height=50&lines=Computer+Science+Student+%40+IGDTUW+%F0%9F%8E%93;AI%2FML+Researcher+%7C+Full-Stack+Developer+%F0%9F%9A%80;Deep+Learning+%C2%B7+Computer+Vision+%C2%B7+Audio+Processing+%F0%9F%8E%A7;Self-Supervised+Learning+%C2%B7+Explainable+AI+%F0%9F%94%8D;Building+with+LLMs+%F0%9F%A4%96)](https://git.io/typing-svg)
+
+<br>
 
 <p>
 <a href="mailto:palak098btit24@igdtuw.ac.in">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20"/>
+</a>&nbsp;
 <a href="https://github.com/PalakMah">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20"/>
+</a>&nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20"/>
 </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=PalakMah&style=for-the-badge&color=6C63FF)
+<p>
+<img src="https://komarev.com/ghpvc/?username=PalakMah&style=for-the-badge&color=8a63f2&label=PROFILE+VIEWS"/>&nbsp;
+<img src="https://img.shields.io/github/followers/PalakMah?label=Followers&style=for-the-badge&color=8A63F2&logo=github&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Open%20To-Research%20%26%20SWE%20Roles-8A63F2?style=for-the-badge"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=3&section=header&width=100%25" />
 
 </div>
 
