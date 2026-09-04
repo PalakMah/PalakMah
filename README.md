@@ -22,7 +22,7 @@
 
 `Python` `PyTorch` `XLS-R` `Self-Supervised Learning` `Attention Mechanisms`
 
-🔗 [GitHub](#)
+🔗 [GitHub](https://github.com/PalakMah/DeepFakeAudioDetection)
 
 ---
 
@@ -38,7 +38,7 @@
 **🛠 Tech Stack**
 
 `Python` `SimCLR` `Contrastive Learning` `CWT` `Grad-CAM`
-
+🔗[GitHub](https://github.com/PalakMah/baby_cry_detection)
 ---
 
 ## 🚀 Projects
@@ -56,7 +56,7 @@
 
 `React` `FastAPI` `Hybrid RAG` `Semantic Search`
 
-🌐 Live Demo &nbsp;|&nbsp; 🔗 [GitHub](#) &nbsp;|&nbsp; 🎥 [Demo Video](#)
+🌐 Live Demo &nbsp;|&nbsp; 🔗 [GitHub](https://github.com/PalakMah/LegalEase) &nbsp;|&nbsp; 🎥 [Demo Video](https://drive.google.com/file/d/1zMrWVhCsbolH060KOvx9M3mFUDJtHxz5/view?usp=sharing)
 
 ---
 
@@ -73,7 +73,7 @@
 
 `FastAPI` `Groq` `Web Speech API` `LLMs`
 
-🔗 [GitHub](#)
+🔗 [GitHub](https://github.com/PalakMah/DebateX)
 
 ---
 
