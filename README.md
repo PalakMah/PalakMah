@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=8A63F2&center=true&vCenter=true&random=false&width=800&height=50&lines=Computer+Science+Student+%40+IGDTUW+%F0%9F%8E%93;AI%2FML+Researcher+%7C+Full-Stack+Developer+%F0%9F%9A%80;Deep+Learning+%C2%B7+Computer+Vision+%C2%B7+Audio+Processing+%F0%9F%8E%A7;Self-Supervised+Learning+%C2%B7+Explainable+AI+%F0%9F%94%8D;Building+with+LLMs+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=8A63F2&center=true&vCenter=true&random=false&width=800&height=50&lines=Information+Technology+%40+IGDTUW+%F0%9F%8E%93;AI%2FML+Researcher+%7C+Full-Stack+Developer+%F0%9F%9A%80;Deep+Learning+%C2%B7+Computer+Vision+%C2%B7+Audio+Processing+%F0%9F%8E%A7;Self-Supervised+Learning+%C2%B7+Explainable+AI+%F0%9F%94%8D;Building+with+LLMs+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 <br>
 
@@ -20,13 +20,6 @@
 </a>
 </p>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=PalakMah&style=for-the-badge&color=8a63f2&label=PROFILE+VIEWS"/>&nbsp;
-<img src="https://img.shields.io/github/followers/PalakMah?label=Followers&style=for-the-badge&color=8A63F2&logo=github&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Open%20To-Research%20%26%20SWE%20Roles-8A63F2?style=for-the-badge"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=3&section=header&width=100%25" />
 
 </div>
 
@@ -34,47 +27,20 @@
 
 # 🌸 About Me
 
-```cpp
-class PalakMahajan {
+🎓 **B.Tech Information Technology** @ IGDTUW
+🧭 **AI/ML Researcher | Full-Stack Developer**
 
-public:
+I'm interested in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Audio Processing, Self-Supervised Learning, Explainable AI, and LLM-Based Applications.
 
-    string education =
-        "B.Tech Computer Science Engineering @ IGDTUW";
+Currently building:
+- 🎙️ Speaker-Adaptive Audio Deepfake Detection
+- 👶 Infant Cry Classification via Contrastive Learning
+- 📄 AI-Powered Legal Document Analysis
+- 🗣️ Real-Time Voice-Based AI Debate Platform
 
-    string role =
-        "AI/ML Researcher | Full-Stack Developer";
+**Focus:** Designing end-to-end ML pipelines and exploring ways to make models more robust, interpretable, and reliable.
 
-    vector<string> interests = {
-
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Deep Learning",
-        "Computer Vision",
-        "Audio Processing",
-        "Self-Supervised Learning",
-        "Explainable AI",
-        "LLM-Based Applications"
-
-    };
-
-    vector<string> building = {
-
-        "Speaker-Adaptive Audio Deepfake Detection",
-        "Infant Cry Classification via Contrastive Learning",
-        "AI-Powered Legal Document Analysis",
-        "Real-Time Voice-Based AI Debate Platform"
-
-    };
-
-    string currentFocus =
-        "Designing end-to-end ML pipelines and exploring ways to make models more robust, interpretable, and reliable.";
-
-    string motto =
-        "Experiment. Engineer. Explain.";
-
-};
-```
+**Motto:** *Experiment. Engineer. Explain.*
 
 ---
 
@@ -153,9 +119,6 @@ https://github.com/PalakMah/baby_cry_detection
 `Hybrid RAG`
 `Semantic Search`
 
-🌐 Live Demo
-
-*(add link)*
 
 📂 GitHub
 
@@ -252,55 +215,7 @@ https://github.com/PalakMah/DebateX
 
 ---
 
-# 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PalakMah&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalakMah&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PalakMah&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PalakMah&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PalakMah&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# 📈 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/PalakMah/PalakMah/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
-> **Note:** Requires setting up a GitHub Action in your `PalakMah/PalakMah` repo to auto-generate this snake — see [platane/snk](https://github.com/Platane/snk) for the workflow file.
-
----
 
 # 📚 Currently Exploring
 
@@ -313,49 +228,10 @@ https://github.com/PalakMah/DebateX
 
 ---
 
-# 🌟 Fun Facts
-
-```python
-while True:
-
-    read_papers()
-
-    train_model()
-
-    debug()
-
-    write_up_results()
-
-    repeat()
-```
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="mailto:palak098btit24@igdtuw.ac.in">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/PalakMah">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
 
 <div align="center">
 
 ## 💜 Thanks for visiting!
-
-### ⭐ If you like my work, consider giving a ⭐ to my repositories.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=120&section=footer"/>
 
