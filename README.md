@@ -1,16 +1,85 @@
-## Hi there 👋
+# 🧠 Palak Mahajan
 
-<!--
-**PalakMah/PalakMah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**B.Tech Student, IGDTUW Delhi | ML Researcher — Deepfake Detection & Audio/Video AI**
 
-Here are some ideas to get you started:
+> B.Tech student researching deepfake detection and audio/video machine learning, with experience across speaker-adaptive audio forensics, video forgery detection, and self-supervised audio representation learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 palak098btit24@igdtuw.ac.in &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) &nbsp;|&nbsp; [LeetCode](https://leetcode.com/YOUR-LEETCODE)
+
+---
+
+## 🔬 Research
+
+### Speaker-Adaptive Audio Deepfake Detection
+> Hybrid feature pipeline fusing handcrafted acoustic descriptors with XLS-R self-supervised embeddings through adaptive gating-attention, with a reference-free Speaker Memory Bank for personalized detection — no pre-recorded baseline audio needed at deployment.
+
+**✨ Highlights**
+- 🎯 Accuracy raised from 93% → 97.16%, AUC to 0.9978
+- 📉 EER cut from 2.35% → 1.90%
+- 🗣️ Bona fide F1-score improved from 0.75 → 0.88
+
+**🛠 Tech Stack**
+
+`Python` `PyTorch` `XLS-R` `Self-Supervised Learning` `Attention Mechanisms`
+
+🔗 [GitHub](#)
+
+---
+
+### Infant Cry Classification via Contrastive Learning
+> End-to-end audio pipeline transforming infant cry recordings into CWT scalograms, with SimCLR-based contrastive learning on augmented views to learn robust, discriminative representations — interpreted using Grad-CAM to verify focus on clinically relevant acoustic regions.
+
+**✨ Highlights**
+- 🌊 CWT scalogram representation of cry audio
+- 🧬 SimCLR self-supervised contrastive learning
+- 🔥 Grad-CAM + edge-enhanced saliency for explainability
+- 🩺 Verified model focus on formants & harmonic structures
+
+**🛠 Tech Stack**
+
+`Python` `SimCLR` `Contrastive Learning` `CWT` `Grad-CAM`
+
+---
+
+## 🚀 Projects
+
+### 📄 LegalEase — AI-Powered Legal Document Analysis Platform
+> Full-stack platform for legal document analysis — contract summarization, risk identification, and document-aware Q&A over PDF/DOCX files, with an async processing pipeline for large documents.
+
+**✨ Features**
+- 📑 Contract summarization & risk identification
+- 💬 Document-aware Q&A
+- ⚙️ Async processing with live status tracking
+- 🔍 Hybrid keyword + semantic retrieval
+
+**🛠 Tech Stack**
+
+`React` `FastAPI` `Hybrid RAG` `Semantic Search`
+
+🌐 Live Demo &nbsp;|&nbsp; 🔗 [GitHub](#) &nbsp;|&nbsp; 🎥 [Demo Video](#)
+
+---
+
+### 🎙️ DebateX — AI-Powered Real-Time Debate Platform
+> Real-time voice-based AI debate platform with a precompute-then-retrieve architecture for low-latency, context-injected LLM generation.
+
+**✨ Features**
+- 🗣️ Real-time voice debates via Web Speech API
+- 🔎 Live web search grounding (DuckDuckGo)
+- 🧵 Session-based conversation history management
+- ⚡ Tuned temperature & token budgets for consistent generation
+
+**🛠 Tech Stack**
+
+`FastAPI` `Groq` `Web Speech API` `LLMs`
+
+🔗 [GitHub](#)
+
+---
+
+## 🏅 Achievements
+
+- 🥇 2 wins, 5 finalist positions across 9+ national hackathons
+- 🎯 Semi-Finalist, Flipkart GRiD 8.0 — advanced to Round 3
+- 🎓 Delhi Higher & Technical Education Support Scheme, Govt. of NCT of Delhi
+- 📄 Co-authored paper on baby emotion recognition — under review at IEEE TETCI
