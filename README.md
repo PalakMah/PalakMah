@@ -1,6 +1,6 @@
 # 🧠 Palak Mahajan
 
-**B.Tech Student, IGDTUW Delhi | ML Researcher — Deepfake Detection & Audio/Video AI**
+**B.Tech Student, IGDTUW Delhi |
 
 > I am a B.Tech student at IGDTUW with a strong interest in Artificial Intelligence, Machine Learning, and research. My experience spans deep learning, computer vision, audio processing, self-supervised learning, explainable AI, and LLM-based applications. I enjoy working on problems that require both experimentation and engineering, from designing end-to-end ML pipelines to exploring ways of making models more robust, interpretable, and reliable.
 
