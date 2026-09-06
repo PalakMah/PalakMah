@@ -163,6 +163,7 @@ https://github.com/PalakMah/DebateX
 | 🥇 Hackathons | **2 wins, 5 finalist positions** across 9+ national hackathons |
 | 🎯 Semi-Finalist | **Flipkart GRiD 8.0** — advanced to Round 3 |
 | 📄 Research Publication | Co-authored paper on baby emotion recognition — **under review at IEEE TETCI** |
+| 💻 DSA | Solved **400+ Data Structures & Algorithms problems** across **LeetCode and GeeksforGeeks** |
 
 </div>
 
