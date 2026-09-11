@@ -100,6 +100,25 @@ https://github.com/PalakMah/baby_cry_detection
 # 🚀 Featured Projects
 
 ---
+# 🩻 OsteoVision — AI-Powered Osteoporosis Screening from Knee X-rays
+ 
+> Multimodal deep learning pipeline that classifies knee X-rays into normal, osteopenia, or osteoporosis, pairing CNN image features with clinical tabular data and LLM-narrated, explainable results.
+ 
+## ✨ Features
+ 
+- 🦴 Multimodal CNN + tabular model with 5-fold stratified cross-validation
+- ⚖️ Focal loss to counter severe class imbalance across the three diagnostic categories
+- 🔍 Explainability via Grad-CAM heatmaps, region attribution, and a decision-tree surrogate model
+- 🗣️ LLM-narrated explanations — separate expert (radiologist-facing) and layperson (patient-facing) summaries, with an offline fallback when no API key is set
+## 🛠️ Tech Stack
+ 
+`PyTorch` `torchvision` `scikit-learn` `Grad-CAM` `LIME` `SHAP` `Claude API`
+ 
+## 📁 GitHub
+ 
+https://github.com/PalakMah/OsteoVision
+ 
+---
 
 ## 📄 LegalEase — AI-Powered Legal Document Analysis Platform
 
