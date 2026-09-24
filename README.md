@@ -247,11 +247,9 @@ https://github.com/PalakMah/DebateX
 - 🐳 Docker & Kubernetes
 
 ---
-
-
 <div align="center">
 
-## 💜 Thanks for visiting!
+##  Thanks for visiting!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=120&section=footer"/>
 
