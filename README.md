@@ -52,7 +52,7 @@ Currently building:
 
 > Hybrid feature pipeline fusing handcrafted acoustic descriptors with XLS-R self-supervised embeddings through adaptive gating-attention, with a reference-free Speaker Memory Bank for personalized detection — no pre-recorded baseline audio needed at deployment.
 
-### ✨✨ Highlights
+### ✨ Highlights ✨
 
 - 🎯 Accuracy raised from 93% → **97.16%**, AUC to **0.9978**
 - 📉 EER cut from 2.35% → **1.90%**
