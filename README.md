@@ -58,7 +58,7 @@ Currently building:
 - 📉 EER cut from 2.35% → **1.90%**
 - 🗣️ Bona fide F1-score improved from 0.75 → **0.88**
 
-### 🛠🛠 Tech Stack
+### 🛠 Tech Stack 🛠
 
 `Python`
 `PyTorch`
