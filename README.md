@@ -66,7 +66,7 @@ Currently building:
 `Self-Supervised Learning`
 `Attention Mechanisms`
 
-📂📂**GitHub**
+📂 **GitHub** 📂
 
 https://github.com/PalakMah/DeepFakeAudioDetection
 
