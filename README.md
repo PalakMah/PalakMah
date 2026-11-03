@@ -27,7 +27,7 @@
 
 # 🌸🌸 About Me 🌸🌸
 
-🎓 **B.Tech Information Technology** @ IGDTUW
+🎓 **B.Tech Information Technology** @ IGDTUW, Delhi
 🧭 **AI/ML Researcher | Full-Stack Developer**
 
 I'm interested in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Audio Processing, Self-Supervised Learning, Explainable AI, and LLM-Based Applications.
