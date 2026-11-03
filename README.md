@@ -72,7 +72,7 @@ https://github.com/PalakMah/DeepFakeAudioDetection
 
 ---
 
-## 👶 Infant Cry Classification via Contrastive Learning
+## 👶👶 Infant Cry Classification via Contrastive Learning
 
 > End-to-end audio pipeline transforming infant cry recordings into CWT scalograms, with SimCLR-based contrastive learning on augmented views to learn robust, discriminative representations — interpreted using Grad-CAM to verify focus on clinically relevant acoustic regions.
 
