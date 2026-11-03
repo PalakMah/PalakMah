@@ -44,11 +44,11 @@ Currently building:
 
 ---
 
-# 🔬🔬 Research 🔬🔬
+# 🔬 Research 🔬
 
 ---
 
-## 🎙️🎙️ Speaker-Adaptive Audio Deepfake Detection
+## 🎙️ Speaker-Adaptive Audio Deepfake Detection 🎙️
 
 > Hybrid feature pipeline fusing handcrafted acoustic descriptors with XLS-R self-supervised embeddings through adaptive gating-attention, with a reference-free Speaker Memory Bank for personalized detection — no pre-recorded baseline audio needed at deployment.
 
