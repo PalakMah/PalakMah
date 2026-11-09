@@ -76,14 +76,14 @@ https://github.com/PalakMah/DeepFakeAudioDetection
 
 > End-to-end audio pipeline transforming infant cry recordings into CWT scalograms, with SimCLR-based contrastive learning on augmented views to learn robust, discriminative representations — interpreted using Grad-CAM to verify focus on clinically relevant acoustic regions.
 
-### ✨ Highlights ✨
+##✨ Highlights ✨
 
 - 🌊 CWT scalogram representation of cry audio
 - 🧬 SimCLR self-supervised contrastive learning
 - 🔥 Grad-CAM + edge-enhanced saliency for explainability
 - 🩺 Verified model focus on formants & harmonic structures
 
-### 🛠🛠 Tech Stack
+## 🛠 Tech Stack
 
 `Python`
 `SimCLR`
