@@ -25,7 +25,7 @@
 
 ---
 
-# 🌸🌸 About Me 🌸🌸
+# 🌸 About Me 🌸
 
 🎓 **B.Tech Information Technology** @ IGDTUW, Delhi
 🧭 **AI/ML Researcher | Full-Stack Developer**
