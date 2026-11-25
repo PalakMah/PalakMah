@@ -71,6 +71,16 @@ Currently building:
 https://github.com/PalakMah/DeepFakeAudioDetection
 
 ---
+### 🎥 Hybrid Deepfake Video Detection
+Dual-stream deep learning model that detects deepfake videos by combining spatial features with frequency-domain artefacts.
+
+- **Pipeline:** SSIM-based frame selection → MTCNN face detection → augmentation and noise reduction (Albumentations) → DCT transformation
+- **Model:** Parallel EfficientNetB0 and Xception streams (ImageNet-pretrained), fused with a gated attention layer for real/fake classification
+- **Training:** class weighting, early stopping, checkpointing, L2 regularisation
+- **Metrics:** accuracy, AUC-ROC, F1 → *[add your best results, and the dataset used]*
+- **Stack:** Python, TensorFlow/Keras, OpenCV, MTCNN, Albumentations
+
+🔗 [Repository](link) · Sep–Nov 2025 · IGDTUW
 
 ## 👶 Infant Cry Classification via Contrastive Learning 👶
 
