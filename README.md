@@ -80,7 +80,7 @@ Dual-stream deep learning model that detects deepfake videos by combining spatia
 - **Metrics:** accuracy, AUC-ROC, F1 → *[add your best results, and the dataset used]*
 - **Stack:** Python, TensorFlow/Keras, OpenCV, MTCNN, Albumentations
 
-🔗 [Repository](link) · Sep–Nov 2025 · IGDTUW
+🔗 [Repository]((https://github.com/PalakMah/Video-DeepFake-Detection)) · Sep–Nov 2025 · IGDTUW
 
 ## 👶 Infant Cry Classification via Contrastive Learning 👶
 
